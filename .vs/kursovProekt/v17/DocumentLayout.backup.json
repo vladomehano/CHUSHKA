@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\c#\\kursovproekt\\kursovproekt\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\c#\\kursovproekt\\kursovproekt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\c#\\kursovproekt\\kursovproekt\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\c#\\kursovproekt\\kursovproekt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\c#\\kursovproekt\\kursovproekt\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\c#\\kursovproekt\\kursovproekt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\c#\\kursovproekt\\kursovproekt\\data\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\data\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\c#\\kursovproekt\\kursovproekt\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\c#\\kursovproekt\\kursovproekt\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\c#\\kursovproekt\\kursovproekt\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "kursovProekt\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "kursovProekt\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-13T10:41:14.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "kursovProekt\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "kursovProekt\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T10:39:50.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "kursovProekt\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "kursovProekt\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:38:26.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "kursovProekt\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "kursovProekt\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T10:28:58.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "kursovProekt\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "kursovProekt\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T10:28:52.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "kursovProekt\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "kursovProekt\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T10:28:46.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "kursovProekt\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "kursovProekt\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T10:28:42.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "kursovProekt\\Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Data\\Models\\User.cs",
+              "RelativeToolTip": "kursovProekt\\Data\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T08:24:54.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "kursovProekt\\Data\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Data\\Models\\Product.cs",
+              "RelativeToolTip": "kursovProekt\\Data\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T08:24:43.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Data\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "kursovProekt\\Data\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\c#\\kursovProekt\\kursovProekt\\Data\\Models\\Order.cs",
+              "RelativeToolTip": "kursovProekt\\Data\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T08:24:07.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

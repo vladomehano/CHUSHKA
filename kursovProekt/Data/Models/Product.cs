@@ -8,7 +8,7 @@
         public string Description { get; set; }
         public PTypes Ptype { get; set; }
         public ICollection<Order> Orders { get; set; } = new List<Order>();
-
+        public int Type { get; set; }
         public enum PTypes
         {
             Food,

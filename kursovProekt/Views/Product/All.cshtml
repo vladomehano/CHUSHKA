@@ -1,0 +1,24 @@
+﻿@model ICollection<ProductViewModel>
+
+@foreach (var item in Model)
+{
+    <div class="card">
+        <h5 class="card-header">@item.Name</h5>
+        <div class="card-body">
+            <h5 class="card-title">@item.Price €</h5>
+            <p class="card-text">@item.Description.</p>
+            <a href="#" class="btn btn-primary">Details</a>
+        </div>
+    </div>
+    @* <td>
+            <img src="@item.ImageURL" alt="@item.Name" class="img-thumbnail" style="max-width: 120px;" />
+        </td>*@
+       @* <td>
+            <a asp-controller="Cat" asp-action="Details" asp-route-id="@item.Id">Details</a>
+            <a asp-controller="Cat" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+            <a asp-controller="Cat" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+
+        </td>
+    </tr>*@
+   
+}

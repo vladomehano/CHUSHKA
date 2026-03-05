@@ -41,5 +41,18 @@ namespace kursovProekt.Controllers
          
         }
 
+        public IActionResult All()
+        {
+            List<ProductViewModel> model = db.Products.Select(x => new ProductViewModel
+            {
+                Id = x.Id,
+                Name = x.Name,
+                Price = x.Price,
+                Description = x.Description,
+                ProductType = x.Type
+            }
+            ).ToList();
+            return View(model);
+        }
     }
 }

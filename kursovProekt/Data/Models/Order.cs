@@ -9,6 +9,6 @@ namespace kursovProekt.Data.Models
         public Product Product { get; set; }
         public int UserId   { get; set; }
         public User User { get; set; }
-        public DataSetDateTime OrderOn { get; set; }
+        public DataSetDateTime OrderedOn { get; set; }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VuUv5C9747A=",
+  "dgSpecHash": "RH66EIIP9uc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\XII class\\Desktop\\Нова папка\\CHUSHKA\\kursovProekt\\kursovProekt.csproj",
+  "projectFilePath": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\kursovProekt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\XII class\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\XII class\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

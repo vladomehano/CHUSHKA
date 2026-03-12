@@ -106,12 +106,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 8,
@@ -122,8 +118,7 @@
               "RelativeToolTip": "kursovProekt\\Controllers\\ProductController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAgwDEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T06:29:25.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T06:29:25.284Z"
             },
             {
               "$type": "Document",
@@ -135,8 +130,7 @@
               "RelativeToolTip": "kursovProekt\\Data\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T08:24:43.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T08:24:43.635Z"
             },
             {
               "$type": "Document",
@@ -148,8 +142,7 @@
               "RelativeToolTip": "kursovProekt\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T11:48:22.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T11:48:22.6Z"
             },
             {
               "$type": "Document",
@@ -161,8 +154,7 @@
               "RelativeToolTip": "kursovProekt\\Data\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T08:24:54.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T08:24:54.926Z"
             },
             {
               "$type": "Document",
@@ -174,8 +166,7 @@
               "RelativeToolTip": "kursovProekt\\Data\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T08:24:07.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T08:24:07.34Z"
             },
             {
               "$type": "Document",
@@ -200,8 +191,7 @@
               "RelativeToolTip": "kursovProekt\\Views\\Product\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-26T06:35:12.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T06:35:12.489Z"
             },
             {
               "$type": "Document",
@@ -213,8 +203,7 @@
               "RelativeToolTip": "kursovProekt\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-13T10:28:52.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T10:28:52.877Z"
             },
             {
               "$type": "Document",
@@ -226,8 +215,7 @@
               "RelativeToolTip": "kursovProekt\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAC0AAAAAAAAAAAAYwDsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-13T10:41:14.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T10:41:14.857Z"
             },
             {
               "$type": "Document",
@@ -239,8 +227,7 @@
               "RelativeToolTip": "kursovProekt\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-25T11:49:20.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T11:49:20.379Z"
             },
             {
               "$type": "Document",
@@ -252,8 +239,7 @@
               "RelativeToolTip": "kursovProekt\\Models\\ProductViewModel.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T06:38:30.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T06:38:30.641Z"
             },
             {
               "$type": "Document",
@@ -265,8 +251,7 @@
               "RelativeToolTip": "kursovProekt\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T10:38:26.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T10:38:26.963Z"
             },
             {
               "$type": "Document",

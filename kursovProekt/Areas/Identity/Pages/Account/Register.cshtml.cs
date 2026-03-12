@@ -79,7 +79,7 @@ namespace kursovProekt.Areas.Identity.Pages.Account
             [EmailAddress]
             [Display(Name = "Email")]
             public string Email { get; set; }
-
+            public string FullName { get; set; }
             /// <summary>
             ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
             ///     directly from your code. This API may change or be removed in future releases.
@@ -117,13 +117,30 @@ namespace kursovProekt.Areas.Identity.Pages.Account
 
                 await _userStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
                 await _emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
+                user.FullName = Input.FullName;
                 var result = await _userManager.CreateAsync(user, Input.Password);
 
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User created a new account with password.");
+                    var roleManager = HttpContext.RequestServices.GetRequiredService<RoleManager<IdentityRole>>();
+                    if (!await roleManager.RoleExistsAsync("Admin")){
+                        await roleManager.CreateAsync(new IdentityRole("Admin"));
+                    }
+                    if (!await roleManager.RoleExistsAsync("User"))
+                    {
+                        await roleManager.CreateAsync(new IdentityRole("User"));
+                    }
+                    if (_userManager.Users.Count() == 1)
+                    {
+                        await _userManager.AddToRoleAsync(user, "Admin");
+                    }
+                    else
+                    {
+                        await _userManager.AddToRoleAsync(user, "User");
+                    }
 
-                    var userId = await _userManager.GetUserIdAsync(user);
+                        var userId = await _userManager.GetUserIdAsync(user);
                     var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);
                     code = WebEncoders.Base64UrlEncode(Encoding.UTF8.GetBytes(code));
                     var callbackUrl = Url.Page(

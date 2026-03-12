@@ -18,7 +18,9 @@ namespace kursovProekt
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
             builder.Services.AddDefaultIdentity<User>(options => options.SignIn.RequireConfirmedAccount = false)
-                .AddEntityFrameworkStores<ApplicationDbContext>();
+                .AddEntityFrameworkStores<ApplicationDbContext>()
+                .AddRoles <IdentityRole>();
+
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();

@@ -56,7 +56,8 @@ textarea {
 }
 
 .hr-1 {
-    height: 1px;
+    height: 2px;
+    opacity: 1;
 }
 
 .table-hover > tbody > tr:hover {
@@ -71,6 +72,12 @@ footer {
     width: 98%;
 }
 
-/*.product {*/
-/*word-wrap: break-word;*/
-/*}*/
+.product-holder {
+    padding: 30px;
+}
+
+.product {
+    min-height: 260px;
+    font-size: 17px;
+}
+

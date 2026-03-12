@@ -1,9 +1,37 @@
-﻿@{
+﻿@model ICollection<ProductViewModel>
+@{
     ViewData["Title"] = "Home Page";
 }
-
-<div class="text-center">
-    <h1 class="display-4">Greetings, Admin!</h1>
-    <p>Enjoy your work today!</p>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container-fluid text-center">
+    <h2>Greetings, admin!</h2>
+    <h4>Enjoy your work today!</h4>
 </div>
+<hr class="hr-2 bg-dark" />
+<div class="container-fluid product-holder">
+    <div class="row justify-content-center g-4">
+
+        @foreach (var item in Model)
+        {
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <div class="product chushka-bg-color rounded text-white text-center h-100 p-4">
+
+                    <h5 class="mt-2">@item.Name</h5>
+
+                    <hr class="hr-1 bg-white" />
+
+                    <p>
+                        @item.Description
+                    </p>
+
+                    <hr class="hr-1 bg-white" />
+
+                    <h6 class="mb-2">@item.Price €</h6>
+
+                </div>
+            </div>
+        }
+
+    </div>
+</div>
+
+

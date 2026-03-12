@@ -54,5 +54,18 @@ namespace kursovProekt.Controllers
             ).ToList();
             return View(model);
         }
+
+        public IActionResult Details(int id)
+        {
+            Product product = db.Products.FirstOrDefault(c => c.Id == id);
+            ProductViewModel model = new ProductViewModel
+            {
+                Name = product.Name,
+                Price = product.Price,
+                Description = product.Description,
+                ProductType = product.Type
+            };
+            return View(model);
+        }
     }
 }

@@ -19,26 +19,26 @@ namespace kursovProekt.Controllers
             var model = new ProductViewModel();
             return View(model);
         }
-         [HttpPost]
+        [HttpPost]
 
-         public IActionResult Add(ProductViewModel input)
-         {
+        public IActionResult Add(ProductViewModel input)
+        {
             /* if(!ModelState.IsValid)
              {
                  return this.View(input);
              }*/
-             Product product = new Product
-             {
-                 Name = input.Name,
-                 Price = input.Price,
-                 Description = input.Description,
-                 Type = input.ProductType
+            Product product = new Product
+            {
+                Name = input.Name,
+                Price = input.Price,
+                Description = input.Description,
+                Type = input.ProductType
 
-             };
-             this.db.Products.Add(product);
-             this.db.SaveChanges();
+            };
+            this.db.Products.Add(product);
+            this.db.SaveChanges();
             return Redirect("/");
-         
+
         }
 
         public IActionResult All()
@@ -60,12 +60,39 @@ namespace kursovProekt.Controllers
             Product product = db.Products.FirstOrDefault(c => c.Id == id);
             ProductViewModel model = new ProductViewModel
             {
+                Id = product.Id,
                 Name = product.Name,
                 Price = product.Price,
                 Description = product.Description,
                 ProductType = product.Type
             };
             return View(model);
+        }
+
+        public IActionResult Edit(int id)
+        {
+            Product product = db.Products.FirstOrDefault(x => x.Id == id);
+            ProductViewModel model = new ProductViewModel
+            {
+                Id = product.Id,
+                Name = product.Name,
+                Price = product.Price,
+                Description = product.Description,
+                ProductType = product.Type
+            };
+            return View(model);
+        }
+        [HttpPost]
+        public IActionResult Edit(ProductViewModel model)
+        {
+            Product product = db.Products.FirstOrDefault(x => model.Id == x.Id);
+            product.Name = model.Name;
+            product.Price = model.Price;
+            product.Description = model.Description;
+            product.Type = model.ProductType;
+
+            db.SaveChanges();
+            return this.Redirect("/Product/All");
         }
     }
 }

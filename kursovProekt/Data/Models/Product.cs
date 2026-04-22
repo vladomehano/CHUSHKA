@@ -9,6 +9,8 @@
         public PTypes Ptype { get; set; }
         public ICollection<Order> Orders { get; set; } = new List<Order>();
         public int Type { get; set; }
+        public bool IsOrdered { get; internal set; }
+
         public enum PTypes
         {
             Food,

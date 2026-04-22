@@ -25,9 +25,9 @@ namespace kursovProekt.Controllers
             ).ToList();
             return View(model);
         }
-        public IActionResult Order()
+        public IActionResult Create()
         {
-            return View();
+            return Redirect("Home/Index");
         }
     }
 }

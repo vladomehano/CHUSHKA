@@ -3,80 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Migrations\\20260422082758_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kursovProekt\\Migrations\\20260422082758_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\views\\orders\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\orders\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Migrations\\20260422082708_init-craete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kursovProekt\\Data\\Migrations\\20260422082708_init-craete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\views\\product\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\product\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -87,8 +27,80 @@
       "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\views\\product\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\product\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\views\\order\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\order\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\views\\order\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\order\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\data\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\data\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -117,18 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\data\\migrations\\20260225115041_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\data\\migrations\\20260225115041_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\data\\migrations\\20260226083549_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\data\\migrations\\20260226083549_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|c:\\users\\xii class\\desktop\\chushka\\chushka\\kursovproekt\\data\\migrations\\20260312083347_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDD40471-53C2-4EF3-A609-624EB3126EDC}|kursovProekt\\kursovProekt.csproj|solutionrelative:kursovproekt\\data\\migrations\\20260312083347_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -143,136 +143,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "kursovProekt\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "kursovProekt\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "20260422082758_init.cs",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Migrations\\20260422082758_init.cs",
+              "RelativeDocumentMoniker": "kursovProekt\\Migrations\\20260422082758_init.cs",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Migrations\\20260422082758_init.cs",
+              "RelativeToolTip": "kursovProekt\\Migrations\\20260422082758_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:15:19.087Z",
+              "WhenOpened": "2026-04-22T08:27:59.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Models\\OrderViewModel.cs",
-              "RelativeDocumentMoniker": "kursovProekt\\Models\\OrderViewModel.cs",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Models\\OrderViewModel.cs",
-              "RelativeToolTip": "kursovProekt\\Models\\OrderViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Title": "20260422082708_init-craete.cs",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Migrations\\20260422082708_init-craete.cs",
+              "RelativeDocumentMoniker": "kursovProekt\\Data\\Migrations\\20260422082708_init-craete.cs",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Migrations\\20260422082708_init-craete.cs",
+              "RelativeToolTip": "kursovProekt\\Data\\Migrations\\20260422082708_init-craete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:11:40.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "All.cshtml",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Orders\\All.cshtml",
-              "RelativeDocumentMoniker": "kursovProekt\\Views\\Orders\\All.cshtml",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Orders\\All.cshtml",
-              "RelativeToolTip": "kursovProekt\\Views\\Orders\\All.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-13T11:10:41.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "kursovProekt\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "kursovProekt\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAA9wEsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T06:29:25.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Program.cs",
-              "RelativeDocumentMoniker": "kursovProekt\\Program.cs",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Program.cs",
-              "RelativeToolTip": "kursovProekt\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T11:48:22.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "kursovProekt\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "kursovProekt\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T11:46:27.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Product\\Add.cshtml",
-              "RelativeDocumentMoniker": "kursovProekt\\Views\\Product\\Add.cshtml",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Product\\Add.cshtml",
-              "RelativeToolTip": "kursovProekt\\Views\\Product\\Add.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-26T06:35:12.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "All.cshtml",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Product\\All.cshtml",
-              "RelativeDocumentMoniker": "kursovProekt\\Views\\Product\\All.cshtml",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Product\\All.cshtml",
-              "RelativeToolTip": "kursovProekt\\Views\\Product\\All.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-05T07:13:46.387Z",
+              "WhenOpened": "2026-04-22T08:27:08.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Models\\ProductViewModel.cs",
-              "RelativeDocumentMoniker": "kursovProekt\\Models\\ProductViewModel.cs",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Models\\ProductViewModel.cs",
-              "RelativeToolTip": "kursovProekt\\Models\\ProductViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T06:38:30.641Z",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "kursovProekt\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "kursovProekt\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T07:14:04.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "kursovProekt\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "kursovProekt\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T10:38:26.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "kursovProekt\\Views\\Product\\Edit.cshtml",
@@ -280,49 +189,227 @@
               "RelativeToolTip": "kursovProekt\\Views\\Product\\Edit.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-13T10:50:28.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T10:50:28.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Product\\Details.cshtml",
-              "RelativeDocumentMoniker": "kursovProekt\\Views\\Product\\Details.cshtml",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Product\\Details.cshtml",
-              "RelativeToolTip": "kursovProekt\\Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABoAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "kursovProekt\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "kursovProekt\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAACHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-12T07:14:04.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T08:37:03.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "kursovProekt\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "kursovProekt\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-13T10:39:50.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "kursovProekt\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "kursovProekt\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBsAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-13T10:28:58.323Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Product\\All.cshtml",
+              "RelativeDocumentMoniker": "kursovProekt\\Views\\Product\\All.cshtml",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Product\\All.cshtml",
+              "RelativeToolTip": "kursovProekt\\Views\\Product\\All.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-05T07:13:46.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "kursovProekt\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "kursovProekt\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T06:35:12.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "kursovProekt\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "kursovProekt\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T10:28:52.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "kursovProekt\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "kursovProekt\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T10:15:11.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "kursovProekt\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "kursovProekt\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T11:49:20.379Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "kursovProekt\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "kursovProekt\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:15:19.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Order\\Order.cshtml",
+              "RelativeDocumentMoniker": "kursovProekt\\Views\\Order\\Order.cshtml",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Order\\Order.cshtml",
+              "RelativeToolTip": "kursovProekt\\Views\\Order\\Order.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T06:40:09.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Order\\All.cshtml",
+              "RelativeDocumentMoniker": "kursovProekt\\Views\\Order\\All.cshtml",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Order\\All.cshtml",
+              "RelativeToolTip": "kursovProekt\\Views\\Order\\All.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T06:18:53.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "kursovProekt\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "kursovProekt\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAApwGYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T06:29:25.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Models\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "kursovProekt\\Models\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Models\\OrderViewModel.cs",
+              "RelativeToolTip": "kursovProekt\\Models\\OrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:11:40.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "kursovProekt\\Data\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Models\\Order.cs",
+              "RelativeToolTip": "kursovProekt\\Data\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T08:24:07.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "kursovProekt\\Data\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Models\\Product.cs",
+              "RelativeToolTip": "kursovProekt\\Data\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T08:24:43.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "kursovProekt\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "kursovProekt\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T11:46:27.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Program.cs",
+              "RelativeDocumentMoniker": "kursovProekt\\Program.cs",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Program.cs",
+              "RelativeToolTip": "kursovProekt\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T11:48:22.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "kursovProekt\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "kursovProekt\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T06:38:30.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "kursovProekt\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "kursovProekt\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:38:26.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "kursovProekt\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -330,37 +417,11 @@
               "RelativeToolTip": "kursovProekt\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AgIAAHAAAAAAAAAAAAA2wJUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T08:20:28.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T08:20:28.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "kursovProekt\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "kursovProekt\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-12T08:37:03.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "20260312083347_init.cs",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Migrations\\20260312083347_init.cs",
-              "RelativeDocumentMoniker": "kursovProekt\\Data\\Migrations\\20260312083347_init.cs",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Migrations\\20260312083347_init.cs",
-              "RelativeToolTip": "kursovProekt\\Data\\Migrations\\20260312083347_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T08:33:48.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Models\\User.cs",
               "RelativeDocumentMoniker": "kursovProekt\\Data\\Models\\User.cs",
@@ -372,19 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "kursovProekt\\Data\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Models\\Product.cs",
-              "RelativeToolTip": "kursovProekt\\Data\\Models\\Product.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T08:24:43.635Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "kursovProekt\\wwwroot\\css\\site.css",
@@ -396,43 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "kursovProekt\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "kursovProekt\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-13T10:28:52.877Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "kursovProekt\\Data\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Models\\Order.cs",
-              "RelativeToolTip": "kursovProekt\\Data\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T08:24:07.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "kursovProekt\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "kursovProekt\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-25T11:49:20.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "kursovProekt\\Models\\ErrorViewModel.cs",
@@ -444,31 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20260226083549_intial.cs",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Migrations\\20260226083549_intial.cs",
-              "RelativeDocumentMoniker": "kursovProekt\\Data\\Migrations\\20260226083549_intial.cs",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Migrations\\20260226083549_intial.cs",
-              "RelativeToolTip": "kursovProekt\\Data\\Migrations\\20260226083549_intial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T08:35:49.264Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "20260225115041_initial.cs",
-              "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Migrations\\20260225115041_initial.cs",
-              "RelativeDocumentMoniker": "kursovProekt\\Data\\Migrations\\20260225115041_initial.cs",
-              "ToolTip": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Data\\Migrations\\20260225115041_initial.cs",
-              "RelativeToolTip": "kursovProekt\\Data\\Migrations\\20260225115041_initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T11:50:42.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\appsettings.json",
               "RelativeDocumentMoniker": "kursovProekt\\appsettings.json",
@@ -480,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "kursovProekt.csproj",
               "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\kursovProekt.csproj",
               "RelativeDocumentMoniker": "kursovProekt\\kursovProekt.csproj",
@@ -492,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "kursovProekt\\ScaffoldingReadMe.txt",
@@ -504,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "kursovProekt\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
@@ -516,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "kursovProekt\\Views\\_ViewStart.cshtml",
@@ -528,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\XII class\\Desktop\\CHUSHKA\\CHUSHKA\\kursovProekt\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "kursovProekt\\Views\\_ViewImports.cshtml",

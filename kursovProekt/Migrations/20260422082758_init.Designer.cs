@@ -9,18 +9,18 @@ using kursovProekt.Data;
 
 #nullable disable
 
-namespace kursovProekt.Data.Migrations
+namespace kursovProekt.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20260225115041_initial")]
-    partial class initial
+    [Migration("20260422082758_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.17")
+                .HasAnnotation("ProductVersion", "8.0.23")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -170,7 +170,7 @@ namespace kursovProekt.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("OrderOn")
+                    b.Property<int>("OrderedOn")
                         .HasColumnType("int");
 
                     b.Property<int>("ProductId")
@@ -212,6 +212,9 @@ namespace kursovProekt.Data.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("Ptype")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Type")
                         .HasColumnType("int");
 
                     b.HasKey("Id");

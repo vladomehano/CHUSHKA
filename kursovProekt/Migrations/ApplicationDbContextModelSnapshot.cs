@@ -8,7 +8,7 @@ using kursovProekt.Data;
 
 #nullable disable
 
-namespace kursovProekt.Data.Migrations
+namespace kursovProekt.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     partial class ApplicationDbContextModelSnapshot : ModelSnapshot

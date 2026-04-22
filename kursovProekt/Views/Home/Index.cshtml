@@ -9,13 +9,14 @@
 <hr class="hr-2 bg-dark" />
 <div class="container-fluid product-holder">
     <div class="row justify-content-center g-4">
-
+        @if (User.Identity?.IsAuthenticated == true) { 
         @foreach (var item in Model)
         {
-            <div class="col-lg-3 col-md-4 col-sm-6">
+            
+                <div class="col-lg-3 col-md-4 col-sm-6">
                 <div class="product chushka-bg-color rounded text-white text-center h-100 p-4">
 
-                    <h5 class="mt-2">@item.Name</h5>
+                    <a asp-controller="Product" asp-action="Details" asp-route-id="@item.Id"> <h5 class="mt-2">@item.Name</h5></a>
 
                     <hr class="hr-1 bg-white" />
 
@@ -28,6 +29,21 @@
                     <h6 class="mb-2">@item.Price €</h6>
 
                 </div>
+            </div>
+            
+        }
+        }
+        else
+        {
+            <div class="container-fluid">
+            <main>
+                <div class="jumbotron mt-3 chushka-bg-color">
+                    <h1>Welcome to Chushka Universal Web Shop</h1>
+                    <hr class="bg-white" />
+                    <h3><a class="nav-link-dark" asp-area="Identity" asp-page="/Account/Login">Login</a> if you have an account.</h3>
+                    <h3><a class="nav-link-dark" asp-area="Identity" asp-page="/Account/Register">Register</a> if you don't.</h3>
+                </div>
+            </main>
             </div>
         }
 

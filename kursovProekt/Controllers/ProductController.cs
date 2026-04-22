@@ -57,7 +57,7 @@ namespace kursovProekt.Controllers
 
         public IActionResult Details(int id)
         {
-            Product product = db.Products.FirstOrDefault(c => c.Id == id);
+            Product product = db.Products.FirstOrDefault(x => x.Id == id);
             ProductViewModel model = new ProductViewModel
             {
                 Id = product.Id,
@@ -92,7 +92,15 @@ namespace kursovProekt.Controllers
             product.Type = model.ProductType;
 
             db.SaveChanges();
-            return this.Redirect("/Product/All");
+            return this.Redirect("/Home/Index");
+        }
+
+        public IActionResult Delete(int id)
+        {
+            Product product = db.Products.FirstOrDefault(x => x.Id == id);
+            db.Products.Remove(product);
+            db.SaveChanges();
+            return Redirect("/Home/Index");
         }
     }
 }
